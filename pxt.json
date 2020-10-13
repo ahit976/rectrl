@@ -1,0 +1,21 @@
+{
+    "name": "rectrl",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "GamePad": "github:tangjie133/pxt-dfrobot_gamepad_v30#v0.0.7"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
